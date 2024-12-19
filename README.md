@@ -25,6 +25,7 @@ Each card has the following attributes:
 - `month`: The month the card represents, being jan-dec. This is in the top left of the card.
 - `point`: The point value of the card, these are ether: 0, 5, 10, 20. This is in the top right of the card.
 - `yaku`: The bottom left and right numbers on the cards, these are the bonus combos called yakus.
+
 ![image](https://github.com/user-attachments/assets/c213356d-8abf-429e-8b04-1e4747427fc8)
 
 

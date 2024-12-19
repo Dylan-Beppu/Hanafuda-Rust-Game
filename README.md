@@ -15,10 +15,8 @@ cargo run
 
 The game consists of a deck of 48 cards, each representing a month of the year and having a specific point value and optional yaku (special combinations). The deck is shuffled, and cards are dealt to the field, player, and CPU hands.
 
-https://github.com/user-attachments/assets/bb7df4f2-da99-4577-bdc3-0cd1235f6060
 
-youtube link (original video): https://youtu.be/V2p0QFBpsF4
-
+[![Link to youtube explanation](https://img.youtube.com/vi/V2p0QFBpsF4/0.jpg)](https://www.youtube.com/watch?v=V2p0QFBpsF4)
 
 
 #### Card Information
@@ -27,13 +25,14 @@ Each card has the following attributes:
 - `month`: The month the card represents, being jan-dec. This is in the top left of the card.
 - `point`: The point value of the card, these are ether: 0, 5, 10, 20. This is in the top right of the card.
 - `yaku`: The bottom left and right numbers on the cards, these are the bonus combos called yakus.
+![image](https://github.com/user-attachments/assets/c213356d-8abf-429e-8b04-1e4747427fc8)
 
-![image](https://github.com/user-attachments/assets/86bc4676-d9cf-4ff4-a562-5d062e98cbf7)
+
 
 ### Game play
 
 #### Parts of the feild
-![Colord boxes](https://github.com/user-attachments/assets/ff6b1403-5b37-456f-8e2e-e0df0a0d52db)
+![Colord boxes](https://github.com/user-attachments/assets/719401be-69f2-44e2-b124-d5ce0ef827f6)
 
 - Red is are the popints cards, these get couted at the end of the game to see who won
 - Yellow are each players hand

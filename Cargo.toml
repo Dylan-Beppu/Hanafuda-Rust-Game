@@ -1,0 +1,12 @@
+[package]
+name = "hanafuda"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+rand = "0.8"
+ncurses = "5.101.0"
+
+[[bin]]
+name = "Rustgame"
+path = "main.rs"
